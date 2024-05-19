@@ -1,0 +1,24 @@
+{
+    "name": "broswilli/chuck-norris-jokes",
+    "description": "Create random Chuck Norris Jokes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Weli Orlu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Broswilli\\ChuckNorrisJokes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Broswilli\\ChuckNorrisJokes\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}

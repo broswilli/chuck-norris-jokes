@@ -1,0 +1,22 @@
+
+##teamcity[testCount count='2' flowId='7822']
+
+##teamcity[testSuiteStarted name='/var/www/learning/chuck-norris-jokes/phpunit.xml.dist' flowId='7822']
+
+##teamcity[testSuiteStarted name='Chuck Norris Suite' flowId='7822']
+
+##teamcity[testSuiteStarted name='Broswilli\ChuckNorrisJokes\Tests\JokeFactoryTest' locationHint='php_qn:///var/www/learning/chuck-norris-jokes/tests/JokeFactoryTest.php::\Broswilli\ChuckNorrisJokes\Tests\JokeFactoryTest' flowId='7822']
+
+##teamcity[testStarted name='test_it_returns_a_random_joke' locationHint='php_qn:///var/www/learning/chuck-norris-jokes/tests/JokeFactoryTest.php::\Broswilli\ChuckNorrisJokes\Tests\JokeFactoryTest::test_it_returns_a_random_joke' flowId='7822']
+
+##teamcity[testFinished name='test_it_returns_a_random_joke' duration='3' flowId='7822']
+
+##teamcity[testStarted name='test_it_returns_a_predefined_joke' locationHint='php_qn:///var/www/learning/chuck-norris-jokes/tests/JokeFactoryTest.php::\Broswilli\ChuckNorrisJokes\Tests\JokeFactoryTest::test_it_returns_a_predefined_joke' flowId='7822']
+
+##teamcity[testFinished name='test_it_returns_a_predefined_joke' duration='0' flowId='7822']
+
+##teamcity[testSuiteFinished name='Broswilli\ChuckNorrisJokes\Tests\JokeFactoryTest' flowId='7822']
+
+##teamcity[testSuiteFinished name='Chuck Norris Suite' flowId='7822']
+
+##teamcity[testSuiteFinished name='/var/www/learning/chuck-norris-jokes/phpunit.xml.dist' flowId='7822']
