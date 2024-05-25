@@ -1,4 +1,0 @@
-Joke Factory (Broswilli\ChuckNorrisJokes\Tests\JokeFactory)
- [x] It returns a random joke
- [x] It returns a predefined joke
-
